@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "learning backend development",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karandhiman12/Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karandhiman12/Backend/issues"
+  },
+  "homepage": "https://github.com/karandhiman12/Backend#readme"
+}
